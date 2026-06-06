@@ -34,7 +34,7 @@ OUTPUT_DIR = ""   # leave empty to save in same folder, or set e.g. "charts/"
 NAVY   = "#1a1a2e"
 ORANGE = "#e07b39"
 GRAY   = "#7A7060"
-BG     = "#F0EDE6"
+BG     = "#F5ECD7"
 
 
 def base_ax(fig, ax):
@@ -94,8 +94,8 @@ ax.set_ylim(-0.5, 5.8)
 ax.set_xticks(years_cpi)
 ax.set_xticklabels([str(y) for y in years_cpi], rotation=45, ha='right')
 ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:.1f}%"))
-ax.set_title("UK CPI Inflation, 2005–2020",
-             fontsize=13, color=NAVY, fontweight='bold', pad=14, loc='left')
+ax.set_title("UK CPI Inflation, 2009–2020",
+             fontsize=13, color=ORANGE, fontweight='bold', pad=14, loc='center')
 ax.text(0.99, -0.20,
         "Source: ONS Consumer Prices Index, series D7G7. "
         "Exceedances above 2% target driven by external supply shocks, not domestic demand.",
@@ -151,8 +151,8 @@ ax.set_xlim(2004.5, 2020.5)
 ax.set_xticks(list(range(2005, 2021)))
 ax.set_xticklabels([str(y) for y in range(2005, 2021)], rotation=45, ha='right')
 ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:.1f}%"))
-ax.set_title("UK Nominal Wage Growth vs CPI Inflation, 2005–2020",
-             fontsize=13, color=NAVY, fontweight='bold', pad=14, loc='left')
+ax.set_title("UK Nominal Wage Growth vs CPI Inflation, 2009–2020",
+             fontsize=13, color=ORANGE, fontweight='bold', pad=14, loc='center')
 ax.legend(fontsize=9.5, frameon=False, loc='upper right')
 ax.text(0.99, -0.20,
         "Source: ONS Average Weekly Earnings series KAC2; ONS CPI series D7G7. "
@@ -216,7 +216,7 @@ ax.set_xticks(range(2009, 2021))
 ax.set_xticklabels([str(y) for y in range(2009, 2021)], rotation=45, ha='right')
 ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"£{x:.2f}tr"))
 ax.set_title("Bank of England Cumulative Asset Purchases, 2009–2020",
-             fontsize=13, color=NAVY, fontweight='bold', pad=14, loc='left')
+             fontsize=13, color=ORANGE, fontweight='bold', pad=14, loc='center')
 ax.text(0.99, -0.20,
         "Source: Bank of England Asset Purchase Facility published statements. "
         "Each new round reflected continued economic weakness, not success.",
@@ -266,8 +266,8 @@ ax.set_xlim(2004.5, 2020.5)
 ax.set_xticks(list(range(2005, 2021)))
 ax.set_xticklabels([str(y) for y in range(2005, 2021)], rotation=45, ha='right')
 ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:.0f}%"))
-ax.set_title("UK Household Saving Ratio, 2005–2020",
-             fontsize=13, color=NAVY, fontweight='bold', pad=14, loc='left')
+ax.set_title("UK Household Saving Ratio, 2009–2020",
+             fontsize=13, color=ORANGE, fontweight='bold', pad=14, loc='center')
 ax.text(0.99, -0.20,
         "Source: ONS Households saving ratio (SA), series DGD8. "
         "Post-crisis savings surge reflects balance sheet repair, not confidence.",
