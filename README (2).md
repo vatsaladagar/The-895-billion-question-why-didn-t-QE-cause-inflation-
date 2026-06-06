@@ -2,7 +2,7 @@
 
 **Substack article by Vatsala Dagar** · [vatsaladagar.substack.com](https://substack.com/@vatsaladagar)
 
-> *Britain spent over a decade pumping money into the economy. Prices barely moved. Here's what actually happened — and why the answer is more complicated than it looks.*
+> *Britain spent over a decade pumping money into the economy. Prices barely moved. Here's what actually happened and why the answer is more complicated than it looks.*
 
 ---
 
