@@ -2,7 +2,7 @@
 
 **Substack article by Vatsala Dagar** · [vatsaladagar.substack.com](https://substack.com/@vatsaladagar)
 
-> \*Britain spent over a decade pumping money into the economy. Prices barely moved. Here's what actually happened — and why the answer is more complicated than it looks.\*
+> \*Britain spent over a decade pumping money into the economy. Prices barely moved. Here's what actually happened and why the answer is more complicated than it looks.\*
 
 \---
 
@@ -12,7 +12,7 @@ This repository contains the data visualisation code and charts accompanying my 
 
 The article examines why the Bank of England's £895 billion asset purchase programme, spanning four rounds across eleven years, failed to generate the demand-driven inflation it was designed to produce. The analysis traces the breakdown through five transmission failures: the wealth channel reaching the wrong households, bank credit rotating into mortgages rather than productive investment, fiscal austerity pulling against monetary stimulus, persistent labour market slack, and the mechanical distinction between central bank reserves and real-economy money.
 
-The cross-country comparison (US Fed, ECB) and the 2020 pandemic episode — where direct fiscal transfers produced rapid inflation that a decade of QE could not — anchor the empirical argument.
+The cross-country comparison (US Fed, ECB) and the 2020 pandemic episode where direct fiscal transfers produced rapid inflation that a decade of QE could not anchor the empirical argument.
 
 \---
 
@@ -29,25 +29,25 @@ All four charts are produced by `qe\_charts.py` using publicly available ONS and
 
 ### Graph 1 — UK CPI Inflation, 2005–2020
 
-\[UK CPI Inflation](graph1\_cpi.png)
+<img width="1508" height="1013" alt="graph1_cpi (1)" src="https://github.com/user-attachments/assets/c20ab700-0cd9-4522-9d37-e55794c9c359" />
 
 CPI inflation tracked at or below the 2% target for most of the QE era. The two exceedances — 2011 (4.5%, VAT hike and energy spike) and 2017 (2.7%, post-Brexit sterling collapse) were supply-side events, not demand-driven. Underlying inflation was persistently weak.
 
 ### Graph 2 — Nominal Wage Growth vs CPI Inflation, 2005–2020
 
-\[Wages vs CPI](graph2\_wages\_cpi.png)
+<img width="1517" height="1013" alt="graph2_wages_cpi (1)" src="https://github.com/user-attachments/assets/7fc84ee9-8b6f-4df4-a1a6-ce7357c040e3" />
 
 Nominal wage growth collapsed during the GFC and spent most of the subsequent decade hovering around or below CPI. Real wages were effectively flat. In a genuinely demand-driven economy, wages should lead prices; here, they trailed them.
 
 ### Graph 3 — BoE Cumulative Asset Purchases, 2009–2020
 
-\[QE Purchases](graph3\_qe\_purchases.png)
+<img width="1568" height="1013" alt="graph3_qe_purchases (1)" src="https://github.com/user-attachments/assets/f7e7f5ff-a75b-45ae-8e06-88e7f0dde4be" />
 
 The step-chart structure tells its own story: each new QE round was not a sign of success but a response to continued failure. QE1 (£200bn, 2009), QE2 (£175bn, 2011–12), QE3 (£70bn, 2016), and the Covid-era QE4 (£450bn, 2020) together reached £895 billion without generating sustained above-target inflation.
 
 ### Graph 4 — UK Household Saving Ratio, 2005–2020
 
-\[Household Saving Ratio](graph4\_savings\_rate.png)
+<img width="1693" height="1013" alt="graph4_savings_rate (1)" src="https://github.com/user-attachments/assets/59f1334a-e8dc-465e-81ab-5b4cdba73450" />
 
 Post-crisis households deleveraged rather than spent. The saving ratio surged from a pre-crisis average of 6.6% to 10–11% by 2010 and remained elevated for most of the decade - direct evidence that the credit/spending channel failed. The spike to 16.6% in 2020 reflects pandemic-era forced saving.
 
