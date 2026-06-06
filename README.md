@@ -29,25 +29,25 @@ All four charts are produced by `qe\_charts.py` using publicly available ONS and
 
 ### Graph 1 — UK CPI Inflation, 2005–2020
 
-<img width="1508" height="1013" alt="graph1_cpi (1)" src="https://github.com/user-attachments/assets/c20ab700-0cd9-4522-9d37-e55794c9c359" />
+<img width="1508" height="1013" alt="graph1_cpi (2)" src="https://github.com/user-attachments/assets/1c8a4339-9b9c-40d7-8dd0-1bc551665afe" />
 
 CPI inflation tracked at or below the 2% target for most of the QE era. The two exceedances — 2011 (4.5%, VAT hike and energy spike) and 2017 (2.7%, post-Brexit sterling collapse) were supply-side events, not demand-driven. Underlying inflation was persistently weak.
 
 ### Graph 2 — Nominal Wage Growth vs CPI Inflation, 2005–2020
 
-<img width="1517" height="1013" alt="graph2_wages_cpi (1)" src="https://github.com/user-attachments/assets/7fc84ee9-8b6f-4df4-a1a6-ce7357c040e3" />
+<img width="1517" height="1013" alt="graph2_wages_cpi (2)" src="https://github.com/user-attachments/assets/6db9d54f-00ea-4278-8494-59d272906ac6" />
 
 Nominal wage growth collapsed during the GFC and spent most of the subsequent decade hovering around or below CPI. Real wages were effectively flat. In a genuinely demand-driven economy, wages should lead prices; here, they trailed them.
 
 ### Graph 3 — BoE Cumulative Asset Purchases, 2009–2020
 
-<img width="1568" height="1013" alt="graph3_qe_purchases (1)" src="https://github.com/user-attachments/assets/f7e7f5ff-a75b-45ae-8e06-88e7f0dde4be" />
+<img width="1568" height="1013" alt="graph3_qe_purchases (2)" src="https://github.com/user-attachments/assets/5da484b9-4437-4257-a388-3ff6a0fb40fa" />
 
 The step-chart structure tells its own story: each new QE round was not a sign of success but a response to continued failure. QE1 (£200bn, 2009), QE2 (£175bn, 2011–12), QE3 (£70bn, 2016), and the Covid-era QE4 (£450bn, 2020) together reached £895 billion without generating sustained above-target inflation.
 
 ### Graph 4 — UK Household Saving Ratio, 2005–2020
 
-<img width="1693" height="1013" alt="graph4_savings_rate (1)" src="https://github.com/user-attachments/assets/59f1334a-e8dc-465e-81ab-5b4cdba73450" />
+<img width="1693" height="1013" alt="graph4_savings_rate (2)" src="https://github.com/user-attachments/assets/6e10762e-e8e5-456e-b79d-d182cd8025da" />
 
 Post-crisis households deleveraged rather than spent. The saving ratio surged from a pre-crisis average of 6.6% to 10–11% by 2010 and remained elevated for most of the decade - direct evidence that the credit/spending channel failed. The spike to 16.6% in 2020 reflects pandemic-era forced saving.
 
